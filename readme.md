@@ -1,4 +1,4 @@
-#Long Short Term Memory
+# Long Short Term Memory
 
 This program accepts any user entered letter between A/a to Z/z and generates 20 names starting with the entered letter. This uses the LSTM architecture.
 
